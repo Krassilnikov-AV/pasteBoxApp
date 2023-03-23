@@ -1,8 +1,8 @@
 package pasteBox.pasteboxApp.service;
 
 
-import com.pasteBox.pasteboxApp.api.request.PasteBoxRequest;
-import com.pasteBox.pasteboxApp.api.response.*;
+import pasteBox.pasteboxApp.api.request.PasteBoxRequest;
+import pasteBox.pasteboxApp.api.response.*;
 
 import java.util.List;
 

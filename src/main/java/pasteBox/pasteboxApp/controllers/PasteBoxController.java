@@ -1,11 +1,11 @@
 package pasteBox.pasteboxApp.controllers;
 
 
-import com.pasteBox.pasteboxApp.api.request.PasteBoxRequest;
-import com.pasteBox.pasteboxApp.api.response.*;
-import com.pasteBox.pasteboxApp.service.PastBoxService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
+import pasteBox.pasteboxApp.api.request.PasteBoxRequest;
+import pasteBox.pasteboxApp.api.response.*;
+import pasteBox.pasteboxApp.service.PastBoxService;
 
 import java.util.Collection;
 

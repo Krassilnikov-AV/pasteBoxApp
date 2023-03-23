@@ -1,7 +1,8 @@
 package pasteBox.pasteboxApp.repository;
 
-import com.pasteBox.pasteboxApp.exception.NotFoundEntityException;
+
 import org.springframework.stereotype.Repository;
+import pasteBox.pasteboxApp.exception.NotFoundEntityException;
 
 import java.time.LocalDateTime;
 import java.util.*;
